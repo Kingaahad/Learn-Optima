@@ -2,6 +2,6 @@
   "version": 2,
   "builds": [],
   "routes": [
-    { "src": "/(.*)", "dest": "/kingaahad_portfolio.html" }
+    { "src": "/(.*)", "dest": "/learn_optima_frontend.html" }
   ]
 }
